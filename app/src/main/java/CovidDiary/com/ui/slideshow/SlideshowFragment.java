@@ -11,7 +11,7 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
 import CovidDiary.com.databinding.FragmentSlideshowBinding;
-
+// Ini perubahan
 public class SlideshowFragment extends Fragment {
 
     private FragmentSlideshowBinding binding;
